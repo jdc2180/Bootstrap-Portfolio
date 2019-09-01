@@ -1,0 +1,16 @@
+body {
+    background: black; 
+    }
+    p {
+        color: white;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+        font-size: 25px;
+    }
+    h2 {
+        padding: 75px;
+        text-align: center;
+        background: white;
+        color: rgb(12, 89, 114)
+        font-size: 60px;
+      }
+    
